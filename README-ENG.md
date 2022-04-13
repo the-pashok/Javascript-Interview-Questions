@@ -49,6 +49,3 @@
 
 ### 15. What are the differences between var, let, and const
 <p>var is scoped to a function. let and const are block-scoped. Accessible to nearest curly braces (function, if-else, for-loop)</p>
-
-### 16. What is the DOM?
-<p>It stands for Document Object Model. This can be used to access and change the document structure, style, and content.</p>

@@ -1,5 +1,7 @@
 ### 1. What is a closure?
-<p>Closure is a function in a function. The inner function has access to the outer's function scope and parameters even after the outer function has returned.</p>
+<p>
+A closure is a function that has access to its external function by scope, even after the external function has stopped executing. This means that a closure can remember and access variables and arguments of its external function, even after the external function has stopped executing.
+</p>
 
 ### 2. What are the differences between call, apply, and bind?
 <p>call and apply immediately calls a function while bind creates a new function that can be invoked in the future. Arguments with call are passed in one by one, separated with a comma while apply expects an array as its argument.</p>
